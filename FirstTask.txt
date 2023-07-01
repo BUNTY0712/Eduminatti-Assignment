@@ -6,6 +6,8 @@ Here are some points need to be consider for more better user experience:
 
 3.This website is lack in accessiblity guidelines, which means it doesn't provide alternative text for images if we fullfill this term in our website then this will make the website more inclusive and accessible to users with diabilities.
 
+4.Overall css of this website is also not so good. it doesn't use any hovereffect, shadow, gradient color etc.if we use this css property in our website then may be it will be better user experience.
+
 
 Here are some steps you can take to enhance the page load speed:
 
